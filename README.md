@@ -1,2 +1,2 @@
 # Screenshot-Script
-Python Screenshot Script using Tkinter and PyQt5. Press F2 to open the screenshot tool, draw around the desired area, and the screenshot will be copied to your clipboard and saved in the "screenshots" folder. If the folder doesn’t exist, the script will create it automatically.
+Screenshot Script made in Python using Tkinter and PyQt5. The script first checks if there is a "screenshots" folder in the project directory; if not, it creates one. When you press the F2 button on your keyboard, the screenshot screen opens, allowing you to draw around the area you want to capture. Once you're done selecting, the screenshot will automatically copy to your clipboard for easy sharing. All screenshots are also saved in the "screenshots" folder.
